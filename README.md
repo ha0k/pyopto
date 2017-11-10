@@ -4,7 +4,7 @@ Python Interface For Optotune vari-focal Lenses.
 You can find the data sheet [here](http://www.optotune.com/downloads2).
 
 ## Installation
-`pip install git+git+https://github.com/ha0k/pyopto.git`
+`pip install git+https://github.com/ha0k/pyopto.git`
 
 ## Example
 ```python
